@@ -29,4 +29,4 @@ A fully functional Sudoku game built with HTML, CSS, and vanilla JavaScript as p
 ---
 
 
-💡 Created by Harsh Raj
+👨‍💻 Created by **Harsh Raj** | @HarshTechPioneers
